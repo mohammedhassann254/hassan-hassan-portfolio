@@ -35,11 +35,13 @@ Bomu Primary School, Mombasa
 - Reconciled daily digital transaction records with physical meal counts to ensure accurate reporting
 - Supported efficient meal distribution while maintaining hygiene and food safety standards
 
-**ICT Intern – Ministry of Education**  
+**ICT Intern – Ministry of Education** 
+**26 September 2025 – 26 May 2026**
 - User support and system troubleshooting
 - ICT support for daily operations
 
-**Industrial Attachment – Kenya Power**  
+**Industrial Attachment – Kenya Power**
+**September 2022 – December 2022**
 - ICT support and exposure to enterprise systems
 
 ## Projects
