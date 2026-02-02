@@ -1,7 +1,5 @@
 # Hassan Hassan – IT Graduate
 
-# Hassan Hassan – IT Graduate
-
 > IT Support | ICT Intern (PDTP – ICT Authority) | Government & Public Sector Experience
 
 ## About Me
@@ -26,6 +24,16 @@ the Ministry of Education, and my current placement at the Public Service Commis
 - Assisting with hardware and software installation
 - Supporting basic networking and system maintenance
 - Supporting digital service delivery in a public sector environment
+
+**Digital Operations Assistant – Food for Education**  
+*Tap2Eat NFC School Feeding Programme*  
+Bomu Primary School, Mombasa  
+**6 September 2025 – 19 December 2025**
+
+- Operated the Tap2Eat NFC (Near Field Communication) system for daily subsidized student meal transactions
+- Managed digital payment verification and ensured smooth system usage during meal times
+- Reconciled daily digital transaction records with physical meal counts to ensure accurate reporting
+- Supported efficient meal distribution while maintaining hygiene and food safety standards
 
 **ICT Intern – Ministry of Education**  
 - User support and system troubleshooting
