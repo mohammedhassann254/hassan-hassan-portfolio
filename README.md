@@ -20,7 +20,7 @@ the Ministry of Education, and my current placement at the Public Service Commis
 
 **ICT Intern – Public Service Commission (PSC)**  
 *Presidential Digital Talent Programme (ICT Authority)*  
-**[Month Year – Present]**
+**[2025 – Present]**
 
 - Providing end-user ICT support and troubleshooting
 - Assisting with hardware and software installation
